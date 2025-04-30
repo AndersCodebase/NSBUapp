@@ -1,3 +1,8 @@
+USE INSTRUCTION
+  1. Get pycharm or other python code reading program
+  2. download any dependency packages (tkinter)
+  3. press play and enjoy
+
 INSTRUCTIONS ON SAVE/LOAD
 
 SAVE: 
