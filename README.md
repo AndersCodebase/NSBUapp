@@ -1,7 +1,8 @@
 USE INSTRUCTION
-  1. Get pycharm or other python code reading program
-  2. download any dependency packages (tkinter)
-  3. press play and enjoy
+  1. Click the green code button up top
+  2. Extract zip file
+  3. Extract the SECOND zip file
+  4. Blow up or something idk
 
 INSTRUCTIONS ON SAVE/LOAD
 
